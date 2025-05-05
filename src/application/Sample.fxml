@@ -45,9 +45,9 @@
                           <AnchorPane id="home_schedule_mon_tick" minHeight="0.0" minWidth="0.0" prefHeight="90.0" prefWidth="200.0" styleClass="tab_sched_tick" stylesheets="@application.css" />
                         </content>
                       </Tab>
-                      <Tab id="home_schedule_tues" text="Tues">
+                      <Tab id="home_schedule_tues" styleClass="tab_sched_tick" text="Tues">
                         <content>
-                          <AnchorPane id="home_schedule_tues_tick" minHeight="0.0" minWidth="0.0" prefHeight="90.0" prefWidth="200.0" />
+                          <AnchorPane id="home_schedule_tues_tick" minHeight="0.0" minWidth="0.0" prefHeight="90.0" prefWidth="200.0" styleClass="tab_sched_tick" stylesheets="@application.css" />
                         </content>
                       </Tab>
                     </tabs>
