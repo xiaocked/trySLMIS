@@ -57,4 +57,16 @@
 	-fx-border-width: 1px 1px 1px 10px;
 }
 
+.tab_sched{
+	-fx-background-color: #FFF;
+	-fx-border-color: #000;
+	-fx-border-radius: 0px 25px 25px 25px;
+	-fx-background-radius: 0px 25px 25px 25px;
+}
+
+.tab_sched_tick{
+	-fx-background-color: #000;
+	-fx-border-color: #FFF;
+}
+
 /* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
